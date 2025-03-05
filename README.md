@@ -40,3 +40,4 @@ Understanding market size and growth potential informs business strategy and inv
 ## 13. How can understanding market trends inform your software’s positioning and development?
 Tracking market trends helps align the software’s features with current and future industry needs. Emerging technologies, user preferences, and competitor strategies all play a role in shaping development and positioning for success.
 
+** The responses provided in this assignment were generated using artificial intelligence (AI) **
